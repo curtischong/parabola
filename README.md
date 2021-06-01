@@ -2,7 +2,7 @@
 AR overlay that predicts where objects land.
 
 <p align="center">
-  <img src="http://chongcurtis.com/photos/inner_parabola.gif" alt="A video of the app."/>
+  <img src="demo.gif" alt="A video of the app."/>
 </p>
 
 Using two stereoscopic cameras, OpenCV, and a C++ server serving socket connections to an ios app connected to the same local network, we wrote blazing fast code to identify the location of an orange cone and pinpoint it’s landing location. My favourite part was drawing hearts then freezing the frame to stand within them.
